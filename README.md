@@ -1,2 +1,2 @@
-# Face-Modelling
-Using VAEs to generate high quality face embeddings
+# Face Modelling
+Using generative models to generate high quality face embeddings
